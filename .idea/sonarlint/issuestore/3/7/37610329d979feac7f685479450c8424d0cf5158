@@ -1,0 +1,6 @@
+
+f
+java:S2095"DUse try-with-resources or close this "Stream" in a "finally" clause.(φ—§όÿÿÿÿ8—„Ί’/
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(©όβόϋÿÿÿÿ8–½µ’/
+r
+java:S1149!"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ƒÿƒ—ωÿÿÿÿ8®°µ’/
